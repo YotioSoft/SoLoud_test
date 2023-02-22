@@ -1,7 +1,7 @@
 /include
 /lib
-/Mac/SoLoud_test/DerivedData
-/VS/SoLoud_test/.vs
+/Mac/*/DerivedData
+/VS/*/.vs
 /id3lib-3.8.3/
 *.ilk
 *.pdb
@@ -15,8 +15,7 @@
 *.DS_Store
 *.lyrics
 *(debug).exe
-VS/SoLoud_test/.vs/
-VS/SoLoud_test/Intermediate
+VS/*/Intermediate
 
 # Xcode
 #

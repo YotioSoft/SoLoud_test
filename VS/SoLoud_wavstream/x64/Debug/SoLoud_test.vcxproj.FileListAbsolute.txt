@@ -1,0 +1,2 @@
+D:\git\SoLoud_test\VS\SoLoud_test\x64\Debug\SoLoud_test.exe
+D:\git\SoLoud_test\VS\SoLoud_wavstream\x64\Debug\SoLoud_test.exe
