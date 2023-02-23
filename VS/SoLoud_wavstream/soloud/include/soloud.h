@@ -28,9 +28,6 @@ freely, subject to the following restrictions:
 #include <stdlib.h> // rand
 #include <math.h> // sin
 
-// define by me
-#define WITH_WINMM
-
 #ifdef SOLOUD_NO_ASSERTS
 #define SOLOUD_ASSERT(x)
 #else

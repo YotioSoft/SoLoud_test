@@ -1,5 +1,5 @@
-#include "soloud/include/soloud.h"
-#include "soloud/include/soloud_wavstream.h"
+#include "soloud.h"
+#include "soloud_wav.h"
 
 // Entry point
 int main(int argc, char* argv[])
@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	// initialize SoLoud.
 	soloud.init();
 
-	SoLoud::WavStream boom;
+	SoLoud::Wav boom;
 	boom.load("littleidea.mp3");
 	soloud.play(boom); // Play the wave : OK!
 
